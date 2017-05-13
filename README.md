@@ -12,6 +12,10 @@ How you can use these labs:
 We have tried giving as many instructions as possible. 
 All the files are templated using Python script. 
 
+We have practiced these labs with multiple simulator, you can use any simulator that's available to you. 
+We have also provided a sample run script. It is executable. 
+Command to simulate a script:  ./run
+
 There is always a scope for improvement, please excuse us for any inconvenience. :) 
 
 
