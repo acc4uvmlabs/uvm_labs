@@ -20,3 +20,17 @@ There is always a scope for improvement, please excuse us for any inconvenience.
 
 
 Thank you so much for being so AWESOME :) 
+
+Please find the list of Labs below: 
+1.	Interface: Connecting RTL and TB. 
+2.	SV Constraints 
+3.	UVM Phases
+4.	Creating an Agent: 
+5.	Creating an UVC/ENV: 
+6.	Developing full UVM Hierarchy with master and slave agents
+7.	Writing test-cases and sequences. 
+8.	Scoreboard
+9.	Functional Coverage 
+10.	DPI and UVM.
+
+
